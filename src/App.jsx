@@ -19,9 +19,9 @@ const App = () => {
 
   return (
     <>
-      <h1>State Lifting and Filtering : class No. 40</h1>
+      <h1>State Lifting and Filtering </h1>
       <div>
-         <h2>Contact App</h2>
+         <h2>Contact :</h2>
          <ContactsForm getContact={getContact}/>         
          <Table contacts={contacts}/> 
       </div>
